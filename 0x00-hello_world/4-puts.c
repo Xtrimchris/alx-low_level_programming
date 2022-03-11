@@ -1,4 +1,4 @@
-#include stdio.h    //Importation of Standard input/output library
+#include <stdio.h>    //Importation of Standard input/output library
 
 int main ()         //This is the entry point of tyhe program
                     //Executions begins
