@@ -7,7 +7,6 @@
  **/
 
 int main(void)
-
 {
 
 	printf("Size of a char: %ld byte(s)\n", sizeof(char));
@@ -19,5 +18,3 @@ int main(void)
 	return (0);
 
 }
-© 2022 GitHub, Inc.
-Terms
