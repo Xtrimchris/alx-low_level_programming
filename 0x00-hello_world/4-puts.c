@@ -1,10 +1,12 @@
-#include <stdio.h>    //Importation of Standard input/output library
+#include <stdio.h>
+/**
+ * main - Entry Point
+ *
+ *Return: Always 0 (Success)
+ **/
 
-int main ()         //This is the entry point of tyhe program
-                    //Executions begins
+int main(void)
 {
-    puts("\"Programming is like building a multi lingual puzzle");
-        //Sending output to the display via stdio.h
-
-    return 0;   // Program stops and terminate
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
